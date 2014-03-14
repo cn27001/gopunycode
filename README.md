@@ -1,0 +1,1 @@
+Go Lang Library for encode Unicode domain to punycode.
